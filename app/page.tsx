@@ -60,19 +60,6 @@ export default function Home() {
           />
         </div>
       </div>
-
-      {/* Footer */}
-      <footer className="bg-gray-800 text-white py-8 px-4">
-        <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center">
-          <div className="mb-4 md:mb-0">
-            <p>Built for [LIVE AI Ivy Plus] Harvard-Duke Hackathon by Suyeon Park and Aabha Joseph</p>
-          </div>
-          <div className="flex gap-4">
-            <a href="https://github.com/suyeon240park/Ticketchain" className="hover:underline">GitHub Repo</a>
-            <a href="https://youtu.be/xSOGou9qy3A" className="hover:underline">Submission Video</a>
-          </div>
-        </div>
-      </footer>
     </main>
   )
 }
