@@ -21,7 +21,7 @@ export default function Home() {
             Ticket Selling Platform
           </h1>
           <p className="text-xl md:text-2xl text-white mb-8">
-            Fair, Transparent, and Hassle-Free Ticketing Powered by Blockchain.
+            Fair, Transparent, and Hassle-Free Ticketing by Blockchain.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Link href="/organizer" className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded">
